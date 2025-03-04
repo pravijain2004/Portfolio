@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weather.jpg",
+    "description": "A simple and responsive weather app offering real-time updates, temperature, conditions, humidity, and wind speed for any city.It ensures accurate and user-friendly weather tracking with dynamic icons and clear data presentation."
+  },
+  {
+    "title": "Eccomerce-Website",
+    "imageSrc": "projects/eccomerce.jpeg",
+    "description": "A modern and user-friendly e-commerce platform offering smooth navigation, secure payments, and a rich shopping experience with personalized recommendations. Built with technologies for fast, reliable, and responsive performance."
+  }
+]
