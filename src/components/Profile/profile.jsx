@@ -1,9 +1,9 @@
 import React from "react";
 
-import styles from "./profile.module.css";
+import styles from "./Profile.module.css";
 import { getImageUrl } from "../../utils";
 
-export const Hero = () => {
+export const Profile = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
