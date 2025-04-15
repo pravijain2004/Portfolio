@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is my personal Portfolio Website, designed to showcase my skills, projects, and professional journey as a web developer. The website features sections such as About Me, Projects, Skills, and Contact, along with links to my social media profiles (LinkedIn, GitHub, Gmail). It offers an engaging and user-friendly interface for potential clients, employers, or collaborators to explore my work and get in touch.
 
 
@@ -20,3 +21,6 @@ CSS: Custom styling to create a clean, modern, and responsive design.
 JavaScript: For adding interactive elements and dynamic behavior.
 
 React: Used for building reusable components and handling the app's UI efficiently
+=======
+# Portfolio
+>>>>>>> dfadcc2b5dac5aea649fcd57796630d24278eca5
