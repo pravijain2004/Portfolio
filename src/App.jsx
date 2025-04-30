@@ -10,8 +10,8 @@ function App() {
   return (
     <div className={styles.App}>
      <Navbar />
-     <About />
      <Profile />
+     <About />
      <Skills />
      <Projects />
      <Contact />
